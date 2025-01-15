@@ -3,6 +3,9 @@
 ## Problem Statement
 Businesses require accurate sales predictions to effectively plan inventory, allocate resources, and meet revenue targets. This project aims to analyze historical sales data to forecast future sales, thereby enhancing decision-making and revenue growth strategies.
 
+## Model Performance plot
+![Superstore Sales Forecast](Sales_Forecast.png)
+
 ## Data Overview
 The dataset used in this project is the [Kaggle Store Sales dataset](https://www.kaggle.com/datasets/competitions/store-sales-time-series-forecasting). 
 It contains historical sales data for a retail store and includes the following key columns:
